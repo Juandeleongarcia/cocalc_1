@@ -1,1 +1,2 @@
-# cocalc_1
+# tarea 1
+## Ejercicios de Sage como calculadora
